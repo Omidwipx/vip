@@ -1,2 +1,0 @@
-# ratjs
-Server rat js
